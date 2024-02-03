@@ -1,7 +1,7 @@
 
 public class ARView {
     private Item item;
-    private String dObject;
+    private String threedObject;
     private Colour colour;
     private int[] dimensions;
 
@@ -15,11 +15,11 @@ public class ARView {
         this.item = item;
     }
 
-    public String get3dObject() {
+    public String getthreedObject() {
         return dObject;
     }
 
-    public void set3dObject(String dObject) {
+    public void setthreedObject(String dObject) {
         this.dObject = dObject;
     }
 
