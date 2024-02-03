@@ -41,5 +41,4 @@ public class CameraView {
     }
 }
 
-CameraView
-แสดงข้อความที่ยกมา
+
