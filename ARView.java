@@ -15,12 +15,12 @@ public class ARView {
         this.item = item;
     }
 
-    public String getthreedObject() {
-        return dObject;
+    public String getThreedObject() {
+        return threedObject;
     }
 
-    public void setthreedObject(String dObject) {
-        this.dObject = dObject;
+    public void setThreedObject(String threedObject) {
+        this.threedObject = threedObject;
     }
 
     public Colour getColour() {
